@@ -1,0 +1,15 @@
+DAFTAR MENU RIFKI STARBUCKS :
+MAKANAN 
+- Cheese Puff (CP) 2.50$
+- Beef Filone (BF) 3.30$
+- Chocolate Almond Croffle (CAC) 2.55$
+- Classic Tuna Toastie (CTT) 3.50$
+- Red Velvet Roll (RVR) 2.30$
+
+MINUMAN
+- Caffe Americano (CA) 2.70$
+- Asian Dolce Latte (ADL) 2.50$
+- Frappucino (MC) 2.50$
+- Green Tea Latte (GTL) 2$
+- Banana Split (BS) 2.10$
+
